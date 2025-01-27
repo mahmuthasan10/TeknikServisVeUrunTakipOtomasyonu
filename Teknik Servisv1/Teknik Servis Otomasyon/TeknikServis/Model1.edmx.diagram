@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="46c36145a1d24df39da49c1805ec7283" Name="Diagram1" ZoomLevel="91">
+        <EntityTypeShape EntityType="DBTEKNIKSERVISModel.sysdiagram" Width="1.5" PointX="5.75" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBTEKNIKSERVISModel.TBLADMIN" Width="1.5" PointX="7.625" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBTEKNIKSERVISModel.TBLKATEGORI" Width="1.5" PointX="0.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBTEKNIKSERVISModel.TBLMUSTERI" Width="1.5" PointX="3" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBTEKNIKSERVISModel.TBLPERSONEL" Width="1.5" PointX="3" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBTEKNIKSERVISModel.TBLURUN" Width="1.5" PointX="3" PointY="4.75" IsExpanded="true" />
+        <AssociationConnector Association="DBTEKNIKSERVISModel.FK_TBLURUN_TBLKATEGORI" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="DBTEKNIKSERVISModel.TBLIL" Width="1.5" PointX="0.75" PointY="1.875" />
+        <AssociationConnector Association="DBTEKNIKSERVISModel.FK_TBLMUSTERI_TBLIL" />
+        <EntityTypeShape EntityType="DBTEKNIKSERVISModel.TBLURUNSATIS" Width="1.5" PointX="5.75" PointY="4.75" />
+        <AssociationConnector Association="DBTEKNIKSERVISModel.FK_TBLURUNHAREKET_TBLMUSTERI" />
+        <AssociationConnector Association="DBTEKNIKSERVISModel.FK_TBLURUNHAREKET_TBLPERSONEL" />
+        <AssociationConnector Association="DBTEKNIKSERVISModel.FK_TBLURUNHAREKET_TBLURUN" />
+        <EntityTypeShape EntityType="DBTEKNIKSERVISModel.TBLURUNARIZA" Width="1.5" PointX="8.5" PointY="5.25" />
+        <AssociationConnector Association="DBTEKNIKSERVISModel.FK_TBLURUNARIZA_TBLURUNSATIS" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

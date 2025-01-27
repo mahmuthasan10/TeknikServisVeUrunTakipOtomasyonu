@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBTEKNIKSERVISModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TBLADMIN">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KULLANICIAD" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="SIFRE" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="TBLKATEGORI">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="TBLURUNs" Relationship="Self.FK_TBLURUN_TBLKATEGORI" FromRole="TBLKATEGORI" ToRole="TBLURUN" />
+  </EntityType>
+  <EntityType Name="TBLMUSTERI">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="SOYAD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="TELEFON" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MAIL" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="IL" Type="Int32" />
+    <NavigationProperty Name="TBLIL" Relationship="DBTEKNIKSERVISModel.FK_TBLMUSTERI_TBLIL" FromRole="TBLMUSTERI" ToRole="TBLIL" />
+    <NavigationProperty Name="TBLURUNSATIS" Relationship="DBTEKNIKSERVISModel.FK_TBLURUNHAREKET_TBLMUSTERI" FromRole="TBLMUSTERI" ToRole="TBLURUNSATI" />
+  </EntityType>
+  <EntityType Name="TBLPERSONEL">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="SOYAD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MAIL" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="TELEFON" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="TC" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="TBLURUNSATIS" Relationship="DBTEKNIKSERVISModel.FK_TBLURUNHAREKET_TBLPERSONEL" FromRole="TBLPERSONEL" ToRole="TBLURUNSATI" />
+  </EntityType>
+  <EntityType Name="TBLURUN">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AD" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="MARKA" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="ALISFIYAT" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="SATISFIYAT" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="STOK" Type="Int32" />
+    <Property Name="KATEGORI" Type="Int32" />
+    <NavigationProperty Name="TBLKATEGORI" Relationship="Self.FK_TBLURUN_TBLKATEGORI" FromRole="TBLURUN" ToRole="TBLKATEGORI" />
+    <NavigationProperty Name="TBLURUNSATIS" Relationship="DBTEKNIKSERVISModel.FK_TBLURUNHAREKET_TBLURUN" FromRole="TBLURUN" ToRole="TBLURUNSATI" />
+  </EntityType>
+  <Association Name="FK_TBLURUN_TBLKATEGORI">
+    <End Role="TBLKATEGORI" Type="Self.TBLKATEGORI" Multiplicity="0..1" />
+    <End Role="TBLURUN" Type="Self.TBLURUN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLKATEGORI">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TBLURUN">
+        <PropertyRef Name="KATEGORI" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DBTEKNIKSERVISEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="TBLADMINs" EntityType="Self.TBLADMIN" />
+    <EntitySet Name="TBLKATEGORIs" EntityType="Self.TBLKATEGORI" />
+    <EntitySet Name="TBLMUSTERIs" EntityType="Self.TBLMUSTERI" />
+    <EntitySet Name="TBLPERSONELs" EntityType="Self.TBLPERSONEL" />
+    <EntitySet Name="TBLURUNs" EntityType="Self.TBLURUN" />
+    <AssociationSet Name="FK_TBLURUN_TBLKATEGORI" Association="Self.FK_TBLURUN_TBLKATEGORI">
+      <End Role="TBLKATEGORI" EntitySet="TBLKATEGORIs" />
+      <End Role="TBLURUN" EntitySet="TBLURUNs" />
+    </AssociationSet>
+    <EntitySet Name="TBLILs" EntityType="DBTEKNIKSERVISModel.TBLIL" />
+    <AssociationSet Name="FK_TBLMUSTERI_TBLIL" Association="DBTEKNIKSERVISModel.FK_TBLMUSTERI_TBLIL">
+      <End Role="TBLIL" EntitySet="TBLILs" />
+      <End Role="TBLMUSTERI" EntitySet="TBLMUSTERIs" />
+    </AssociationSet>
+    <EntitySet Name="TBLURUNSATISs" EntityType="DBTEKNIKSERVISModel.TBLURUNSATIS" />
+    <AssociationSet Name="FK_TBLURUNHAREKET_TBLMUSTERI" Association="DBTEKNIKSERVISModel.FK_TBLURUNHAREKET_TBLMUSTERI">
+      <End Role="TBLMUSTERI" EntitySet="TBLMUSTERIs" />
+      <End Role="TBLURUNSATI" EntitySet="TBLURUNSATISs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLURUNHAREKET_TBLPERSONEL" Association="DBTEKNIKSERVISModel.FK_TBLURUNHAREKET_TBLPERSONEL">
+      <End Role="TBLPERSONEL" EntitySet="TBLPERSONELs" />
+      <End Role="TBLURUNSATI" EntitySet="TBLURUNSATISs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLURUNHAREKET_TBLURUN" Association="DBTEKNIKSERVISModel.FK_TBLURUNHAREKET_TBLURUN">
+      <End Role="TBLURUN" EntitySet="TBLURUNs" />
+      <End Role="TBLURUNSATI" EntitySet="TBLURUNSATISs" />
+    </AssociationSet>
+    <EntitySet Name="TBLURUNARIZAs" EntityType="DBTEKNIKSERVISModel.TBLURUNARIZA" />
+    <AssociationSet Name="FK_TBLURUNARIZA_TBLURUNSATIS" Association="DBTEKNIKSERVISModel.FK_TBLURUNARIZA_TBLURUNSATIS">
+      <End Role="TBLURUNSATIS" EntitySet="TBLURUNSATISs" />
+      <End Role="TBLURUNARIZA1" EntitySet="TBLURUNARIZAs" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="TBLIL">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="IL" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="TBLMUSTERIs" Relationship="DBTEKNIKSERVISModel.FK_TBLMUSTERI_TBLIL" FromRole="TBLIL" ToRole="TBLMUSTERI" />
+  </EntityType>
+  <Association Name="FK_TBLMUSTERI_TBLIL">
+    <End Type="DBTEKNIKSERVISModel.TBLIL" Role="TBLIL" Multiplicity="0..1" />
+    <End Type="DBTEKNIKSERVISModel.TBLMUSTERI" Role="TBLMUSTERI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLIL">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TBLMUSTERI">
+        <PropertyRef Name="IL" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="TBLURUNSATIS">
+    <Key>
+      <PropertyRef Name="HAREKETID" />
+    </Key>
+    <Property Name="HAREKETID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="URUN" Type="Int32" />
+    <Property Name="MUSTERI" Type="Int32" />
+    <Property Name="PERSONEL" Type="Int32" />
+    <Property Name="TARIH" Type="DateTime" Precision="0" />
+    <Property Name="ADET" Type="Int32" />
+    <Property Name="URUNSERINO" Type="String" MaxLength="5" FixedLength="true" Unicode="false" />
+    <NavigationProperty Name="TBLMUSTERI" Relationship="DBTEKNIKSERVISModel.FK_TBLURUNHAREKET_TBLMUSTERI" FromRole="TBLURUNSATI" ToRole="TBLMUSTERI" />
+    <NavigationProperty Name="TBLPERSONEL" Relationship="DBTEKNIKSERVISModel.FK_TBLURUNHAREKET_TBLPERSONEL" FromRole="TBLURUNSATI" ToRole="TBLPERSONEL" />
+    <NavigationProperty Name="TBLURUN" Relationship="DBTEKNIKSERVISModel.FK_TBLURUNHAREKET_TBLURUN" FromRole="TBLURUNSATI" ToRole="TBLURUN" />
+    <NavigationProperty Name="TBLURUNARIZAs" Relationship="DBTEKNIKSERVISModel.FK_TBLURUNARIZA_TBLURUNSATIS" FromRole="TBLURUNSATIS" ToRole="TBLURUNARIZA1" />
+  </EntityType>
+  <Association Name="FK_TBLURUNHAREKET_TBLMUSTERI">
+    <End Type="DBTEKNIKSERVISModel.TBLMUSTERI" Role="TBLMUSTERI" Multiplicity="0..1" />
+    <End Type="DBTEKNIKSERVISModel.TBLURUNSATIS" Role="TBLURUNSATI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLMUSTERI">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TBLURUNSATI">
+        <PropertyRef Name="MUSTERI" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLURUNHAREKET_TBLPERSONEL">
+    <End Type="DBTEKNIKSERVISModel.TBLPERSONEL" Role="TBLPERSONEL" Multiplicity="0..1" />
+    <End Type="DBTEKNIKSERVISModel.TBLURUNSATIS" Role="TBLURUNSATI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLPERSONEL">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TBLURUNSATI">
+        <PropertyRef Name="PERSONEL" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLURUNHAREKET_TBLURUN">
+    <End Type="DBTEKNIKSERVISModel.TBLURUN" Role="TBLURUN" Multiplicity="0..1" />
+    <End Type="DBTEKNIKSERVISModel.TBLURUNSATIS" Role="TBLURUNSATI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLURUN">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TBLURUNSATI">
+        <PropertyRef Name="URUN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="TBLURUNARIZA">
+    <Key>
+      <PropertyRef Name="ISLEMID" />
+    </Key>
+    <Property Name="ISLEMID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="GELISTARIH" Type="DateTime" Precision="0" />
+    <Property Name="DURUM" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="URUNSATIS" Type="Int32" />
+    <NavigationProperty Name="TBLURUNSATIS" Relationship="DBTEKNIKSERVISModel.FK_TBLURUNARIZA_TBLURUNSATIS" FromRole="TBLURUNARIZA1" ToRole="TBLURUNSATIS" />
+    <Property Name="ACIKLAMA" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <Association Name="FK_TBLURUNARIZA_TBLURUNSATIS">
+    <End Type="DBTEKNIKSERVISModel.TBLURUNSATIS" Role="TBLURUNSATIS" Multiplicity="0..1" />
+    <End Type="DBTEKNIKSERVISModel.TBLURUNARIZA" Role="TBLURUNARIZA1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLURUNSATIS">
+        <PropertyRef Name="HAREKETID" />
+      </Principal>
+      <Dependent Role="TBLURUNARIZA1">
+        <PropertyRef Name="URUNSATIS" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

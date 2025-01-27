@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBTEKNIKSERVISModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="TBLADMIN">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KULLANICIAD" Type="varchar" MaxLength="10" />
+    <Property Name="SIFRE" Type="varchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="TBLIL">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="IL" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TBLKATEGORI">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AD" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TBLMUSTERI">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AD" Type="varchar" MaxLength="50" />
+    <Property Name="SOYAD" Type="varchar" MaxLength="50" />
+    <Property Name="TELEFON" Type="varchar" MaxLength="50" />
+    <Property Name="MAIL" Type="varchar" MaxLength="50" />
+    <Property Name="IL" Type="int" />
+  </EntityType>
+  <EntityType Name="TBLPERSONEL">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AD" Type="varchar" MaxLength="50" />
+    <Property Name="SOYAD" Type="varchar" MaxLength="50" />
+    <Property Name="TC" Type="varchar" MaxLength="100" />
+    <Property Name="MAIL" Type="varchar" MaxLength="50" />
+    <Property Name="TELEFON" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TBLURUN">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AD" Type="varchar" MaxLength="30" />
+    <Property Name="MARKA" Type="varchar" MaxLength="30" />
+    <Property Name="ALISFIYAT" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="SATISFIYAT" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="STOK" Type="int" />
+    <Property Name="KATEGORI" Type="int" />
+  </EntityType>
+  <EntityType Name="TBLURUNARIZA">
+    <Key>
+      <PropertyRef Name="ISLEMID" />
+    </Key>
+    <Property Name="ISLEMID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="GELISTARIH" Type="smalldatetime" />
+    <Property Name="DURUM" Type="varchar" MaxLength="50" />
+    <Property Name="URUNSATIS" Type="int" />
+    <Property Name="ACIKLAMA" Type="varchar" MaxLength="250" />
+  </EntityType>
+  <EntityType Name="TBLURUNSATIS">
+    <Key>
+      <PropertyRef Name="HAREKETID" />
+    </Key>
+    <Property Name="HAREKETID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="URUN" Type="int" />
+    <Property Name="MUSTERI" Type="int" />
+    <Property Name="PERSONEL" Type="int" />
+    <Property Name="TARIH" Type="smalldatetime" />
+    <Property Name="ADET" Type="int" />
+    <Property Name="URUNSERINO" Type="char" MaxLength="5" />
+  </EntityType>
+  <Association Name="FK_TBLMUSTERI_TBLIL">
+    <End Role="TBLIL" Type="Self.TBLIL" Multiplicity="0..1" />
+    <End Role="TBLMUSTERI" Type="Self.TBLMUSTERI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLIL">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TBLMUSTERI">
+        <PropertyRef Name="IL" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLURUN_TBLKATEGORI">
+    <End Role="TBLKATEGORI" Type="Self.TBLKATEGORI" Multiplicity="0..1" />
+    <End Role="TBLURUN" Type="Self.TBLURUN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLKATEGORI">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TBLURUN">
+        <PropertyRef Name="KATEGORI" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLURUNARIZA_TBLURUNSATIS">
+    <End Role="TBLURUNSATIS" Type="Self.TBLURUNSATIS" Multiplicity="0..1" />
+    <End Role="TBLURUNARIZA" Type="Self.TBLURUNARIZA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLURUNSATIS">
+        <PropertyRef Name="HAREKETID" />
+      </Principal>
+      <Dependent Role="TBLURUNARIZA">
+        <PropertyRef Name="URUNSATIS" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLURUNSATIS_TBLMUSTERI">
+    <End Role="TBLMUSTERI" Type="Self.TBLMUSTERI" Multiplicity="0..1" />
+    <End Role="TBLURUNSATIS" Type="Self.TBLURUNSATIS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLMUSTERI">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TBLURUNSATIS">
+        <PropertyRef Name="MUSTERI" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLURUNSATIS_TBLPERSONEL">
+    <End Role="TBLPERSONEL" Type="Self.TBLPERSONEL" Multiplicity="0..1" />
+    <End Role="TBLURUNSATIS" Type="Self.TBLURUNSATIS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLPERSONEL">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TBLURUNSATIS">
+        <PropertyRef Name="PERSONEL" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLURUNSATIS_TBLURUN">
+    <End Role="TBLURUN" Type="Self.TBLURUN" Multiplicity="0..1" />
+    <End Role="TBLURUNSATIS" Type="Self.TBLURUNSATIS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLURUN">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TBLURUNSATIS">
+        <PropertyRef Name="URUN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DBTEKNIKSERVISModelStoreContainer">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLADMIN" EntityType="Self.TBLADMIN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLIL" EntityType="Self.TBLIL" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLKATEGORI" EntityType="Self.TBLKATEGORI" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLMUSTERI" EntityType="Self.TBLMUSTERI" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLPERSONEL" EntityType="Self.TBLPERSONEL" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLURUN" EntityType="Self.TBLURUN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLURUNARIZA" EntityType="Self.TBLURUNARIZA" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLURUNSATIS" EntityType="Self.TBLURUNSATIS" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_TBLMUSTERI_TBLIL" Association="Self.FK_TBLMUSTERI_TBLIL">
+      <End Role="TBLIL" EntitySet="TBLIL" />
+      <End Role="TBLMUSTERI" EntitySet="TBLMUSTERI" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLURUN_TBLKATEGORI" Association="Self.FK_TBLURUN_TBLKATEGORI">
+      <End Role="TBLKATEGORI" EntitySet="TBLKATEGORI" />
+      <End Role="TBLURUN" EntitySet="TBLURUN" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLURUNARIZA_TBLURUNSATIS" Association="Self.FK_TBLURUNARIZA_TBLURUNSATIS">
+      <End Role="TBLURUNSATIS" EntitySet="TBLURUNSATIS" />
+      <End Role="TBLURUNARIZA" EntitySet="TBLURUNARIZA" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLURUNSATIS_TBLMUSTERI" Association="Self.FK_TBLURUNSATIS_TBLMUSTERI">
+      <End Role="TBLMUSTERI" EntitySet="TBLMUSTERI" />
+      <End Role="TBLURUNSATIS" EntitySet="TBLURUNSATIS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLURUNSATIS_TBLPERSONEL" Association="Self.FK_TBLURUNSATIS_TBLPERSONEL">
+      <End Role="TBLPERSONEL" EntitySet="TBLPERSONEL" />
+      <End Role="TBLURUNSATIS" EntitySet="TBLURUNSATIS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLURUNSATIS_TBLURUN" Association="Self.FK_TBLURUNSATIS_TBLURUN">
+      <End Role="TBLURUN" EntitySet="TBLURUN" />
+      <End Role="TBLURUNSATIS" EntitySet="TBLURUNSATIS" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

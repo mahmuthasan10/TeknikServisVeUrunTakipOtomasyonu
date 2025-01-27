@@ -1,0 +1,453 @@
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\TeknikServis.exe.config
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\TeknikServis.exe
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\TeknikServis.pdb
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.csprojAssemblyReference.cache
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.AnaForm.resources
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Properties.Resources.resources
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.csproj.GenerateResource.cache
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.exe.licenses
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.csproj.CopyComplete
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.exe
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.pdb
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmUrunListesi.resources
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmYeniUrun.resources
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmKategori.resources
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmYeniKategori.resources
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.Frmİstatisitk.resources
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmMusteri.resources
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmYeniMusteri.resources
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraCharts.v18.1.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraCharts.v18.1.UI.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Utils.v18.1.UI.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraNavBar.v18.1.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraRichEdit.v18.1.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraCharts.v18.1.xml
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraCharts.v18.1.UI.xml
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.xml
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.Utils.v18.1.UI.xml
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.xml
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraNavBar.v18.1.xml
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\DevExpress.XtraRichEdit.v18.1.xml
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\de\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\es\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ja\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ru\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\bin\Debug\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.Frmilistatitik.resources
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmPersonel.resources
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmYeniPersonel.resources
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmArizaListesi.resources
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmUrunSatis.resources
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmSatislar.resources
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmArizaliUrunKaydi.resources
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmDovizKurla.resources
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmArizaGuncelleme.resources
+C:\Users\Lenovo Gaming\Desktop\TeknikServis\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmLogin.resources
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\TeknikServis.exe.config
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\TeknikServis.exe
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\TeknikServis.pdb
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.XtraCharts.v18.1.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.XtraCharts.v18.1.UI.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\EntityFramework.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.Utils.v18.1.UI.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.XtraNavBar.v18.1.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.XtraRichEdit.v18.1.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.XtraCharts.v18.1.xml
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.XtraCharts.v18.1.UI.xml
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.xml
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\EntityFramework.xml
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.Utils.v18.1.UI.xml
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.xml
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.XtraNavBar.v18.1.xml
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.XtraRichEdit.v18.1.xml
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\de\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\es\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ja\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ru\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.csprojAssemblyReference.cache
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.AnaForm.resources
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmArizaGuncelleme.resources
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmArizaListesi.resources
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmArizaliUrunKaydi.resources
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmDovizKurla.resources
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.Formlar.Frmilistatitik.resources
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmKategori.resources
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmLogin.resources
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmMusteri.resources
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmPersonel.resources
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmSatislar.resources
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmUrunListesi.resources
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmUrunSatis.resources
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmYeniKategori.resources
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmYeniMusteri.resources
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmYeniPersonel.resources
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmYeniUrun.resources
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.Formlar.Frmİstatisitk.resources
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.Properties.Resources.resources
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.csproj.GenerateResource.cache
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.exe.licenses
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.csproj.CoreCompileInputs.cache
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.csproj.CopyComplete
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.exe
+C:\Users\tgb\Desktop\Teknik-Servis-ve-Urun-Takip-Otomasyonu-master\TeknikServis\obj\Debug\TeknikServis.pdb
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\TeknikServis.exe.config
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\TeknikServis.exe
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\TeknikServis.pdb
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.XtraCharts.v18.1.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.XtraCharts.v18.1.UI.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\EntityFramework.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.Utils.v18.1.UI.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.XtraNavBar.v18.1.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.XtraRichEdit.v18.1.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.XtraCharts.v18.1.xml
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.XtraCharts.v18.1.UI.xml
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.xml
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\EntityFramework.xml
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.Utils.v18.1.UI.xml
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.xml
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.XtraNavBar.v18.1.xml
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.XtraRichEdit.v18.1.xml
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\de\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\es\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ja\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ru\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.csprojAssemblyReference.cache
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.AnaForm.resources
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmArizaGuncelleme.resources
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmArizaListesi.resources
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmArizaliUrunKaydi.resources
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmDovizKurla.resources
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.Formlar.Frmilistatitik.resources
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmKategori.resources
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmLogin.resources
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmMusteri.resources
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmPersonel.resources
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmSatislar.resources
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmUrunListesi.resources
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmUrunSatis.resources
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmYeniKategori.resources
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmYeniMusteri.resources
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmYeniPersonel.resources
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.Formlar.FrmYeniUrun.resources
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.Formlar.Frmİstatisitk.resources
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.Properties.Resources.resources
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.csproj.GenerateResource.cache
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.exe.licenses
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.csproj.CoreCompileInputs.cache
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.csproj.CopyComplete
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.exe
+C:\Users\tgb\Desktop\Teknik Servis Otomasyon\TeknikServis\obj\Debug\TeknikServis.pdb
